@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently learning ...
 
 <!--
 **Mahdy77-7/Mahdy77-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
